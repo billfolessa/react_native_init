@@ -1,0 +1,6 @@
+https://www.tutorialspoint.com/react_native/react_native_environment_setup.htm
+
+https://reactnative.dev/docs/running-on-device
+
+changer le nom de mon application
+https://www.npmjs.com/package/react-native-rename
